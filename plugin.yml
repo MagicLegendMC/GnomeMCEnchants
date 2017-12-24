@@ -1,0 +1,13 @@
+name: GnomeMCEnchants
+main: net.gnomemc.play.Enchant
+version: 1.0
+description: >
+             GnomeMC Custom Enchants.
+commands:
+  enchanthelp:
+    description: Displays a list of commands!
+  etshop:
+    description: opens gui!
+  disenchanter:
+    description: allows you to disenchant your pickaxe!
+  
